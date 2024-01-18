@@ -93,7 +93,9 @@ class _MyHomePageState extends State<MyHomePage> {
 ```
 ## Image
 <tr>
-<img src="https://github.com/regendraSuman2017/text_form_field_outline/blob/main/screenshot/Screenshot_.jpg"/>
+<td>
+<img src="https://github.com/regendraSuman2017/text_form_field_outline/blob/main/screenshot/Screenshot_.jpg" />
+</td>
 </tr>
 
 
